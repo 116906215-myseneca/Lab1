@@ -1,7 +1,9 @@
 # Lab1
 Lab 1 repository
 
+
 import datetime
+
 
 def calculate_age():
 
